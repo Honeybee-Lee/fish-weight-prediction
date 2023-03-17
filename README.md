@@ -1,7 +1,7 @@
 # fish-weight-prediction 🐟
 This is an example of models that I built on a fish dataset for weight prediction.
 
-Look at the [data set on Kaggle](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
+Look at the [data set on Kaggle!](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
 
 I recently read an [article](https://www.npr.org/2022/10/14/1129018076/fishing-tournament-cheating-felony-charges-runyan-cominsky-lake-erie-walleye) about two men who were caught cheating during a fishing tournament. Being an avid fisherman myself, I couldn't help but wonder if there could have been a way to detect the cheating with an algorithm.<br>
 
