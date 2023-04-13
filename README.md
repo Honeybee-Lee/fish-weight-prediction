@@ -15,5 +15,9 @@ This got me thinking and I scoured the internet for a relatable data set. Unfort
 
 This analysis is just a first pass at a simple model, and of course one could always take it a step further. Feel free to let me know of any inconsistencies or questionable moments in the code, or if you may have any suggestions. I am always eager to learn and improve! 😃
 
+To do:
+- Add confidence intervals
+
+
 --------------------------------
 **Email:** christi.lee0298@gmail.com
